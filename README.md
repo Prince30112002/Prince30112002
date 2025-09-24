@@ -1,4 +1,18 @@
+💫 Hi 👋, I'm Prince Rajak
+A passionate Data Analyst | Python | Machine Learning | Visualization Enthusiast from India
 
+Email Me 👉 ✉️ rajakprince30112002@gmail.com
+ For Collaboration/Project or Anything Else. 😊
+
+🔭 I’m currently working on: Data Analysis projects & Kaggle competitions
+🌱 I’m currently learning: Advanced Machine Learning, Tableau, Power BI
+👯 I’m looking to collaborate on: Data storytelling and visualization projects
+🤔 I’m looking for help with: Advanced ML modeling & feature engineering
+💬 Ask me about: Python, Machine Learning, EDA, Data Visualization
+📫 How to reach me: rajakprince30112002@gmail.com
+
+😄 Pronouns: He/Him
+⚡ Fun fact: I love turning raw numbers into meaningful stories 📊
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/prince-rajak-1a4665386) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rajakprince30112002@gmail.com) 
 
